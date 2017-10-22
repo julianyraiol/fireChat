@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039480880095",
+    "firebase_url": "https://chatsi-92ff7.firebaseio.com",
+    "project_id": "chatsi-92ff7",
+    "storage_bucket": "chatsi-92ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039480880095:android:a236f05d217f737f",
+        "android_client_info": {
+          "package_name": "com.example.julia.chatsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039480880095-2jofocsot1hc3thtq2079v980961eqfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julia.chatsi",
+            "certificate_hash": "4b289da0377bf449fc9200b8a8fe0b08651bfec8"
+          }
+        },
+        {
+          "client_id": "1039480880095-gjflbr8of2m8c36rtfm95aqdr5c51oom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOuTYI-BoDU7oZ1Sysi_76uhXy12YfFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039480880095-gjflbr8of2m8c36rtfm95aqdr5c51oom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
